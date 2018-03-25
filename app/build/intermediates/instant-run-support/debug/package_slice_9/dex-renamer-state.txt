@@ -1,0 +1,4 @@
+#Mon Mar 26 00:07:25 CEST 2018
+base.0=/home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

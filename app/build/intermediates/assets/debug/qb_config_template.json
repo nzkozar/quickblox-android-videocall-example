@@ -1,0 +1,11 @@
+{
+  "app_id": "",
+  "auth_key": "",
+  "auth_secret": "",
+  "account_key": "",
+  "api_domain": "https://api.quickblox.com",
+  "chat_domain": "chat.quickblox.com",
+
+  "gcm_sender_id": ""
+}
+

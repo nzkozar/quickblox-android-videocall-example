@@ -1,0 +1,652 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/fd8a46c5fda54f34b5655b9479767632/AndroidManifest.xml:2:1-10:12
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-videochat-webrtc-3.7.0.aar/b4ced9c3d2cbf304515016f5d66c3d30/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c463ba45b191a2e5789f4fed9242130d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e6e08231c90b3d3610e0b70a2e5b2db2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/859e150937c804d5d86158406877a245/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c97caf820e7394da2915605b984d6cc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/71a715d92439a2e8ff09045dd3c8f588/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3849b7db849de4e8a40f2bcfd7c3f9da/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b4590d34c6cebbb9949bc98fb81c52b4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3545270fb82bdf89abaa22e786da494d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a50c868b6df66e0bd462fee8db53c8ac/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ef812be26228e1cf262dda50bc0766a3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/459513ac17f52162f0c7c0820f391704/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/547c74ce8d2cdd1dba786e16da6ff3ed/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bed4a5b77f7e57f993e3167857967863/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b31a331ca334a29c74b48ca40e80159e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /home/anze/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/36e0f41e90c3e666c60aa97b1fa32cf9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/a3c7fb7194086f6fd9b734a27850e71b/AndroidManifest.xml:2:1-14:12
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-core-3.7.0.aar/24e1cc6dbf31ef7b99dfacfe5039698b/AndroidManifest.xml:2:1-10:12
+MERGED from [org.webrtc:google-webrtc:1.0.21217] /home/anze/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.21217.aar/4279288edda0479d19151a34122c0538/AndroidManifest.xml:11:1-14:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/0c7b8757058f91aea754f6958e608dcc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/4aa3f242e2857e6ca26754b132673bb0/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53fc3c080fc9c6345267e7dfc30856ec/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/45a248b305d7aac25598e457a0022092/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/fb7472f548cb3b8efa696a49dc3d2915/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/97c2906a21a168796697515c0ba9bd08/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/e0e80998dc77b819573546c66bce532a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/435e6f72b86658280094fa4b42aa437a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/70372c1acd9bddc9e747fc507b8f8aa2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a01dca6941cdf9d67f8585267ba4d8b3/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e5def96a090bf6f1d850303a90f39ab5/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:4:5-51
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:1-95:12
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:23:5-67
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/a3c7fb7194086f6fd9b734a27850e71b/AndroidManifest.xml:11:5-67
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/a3c7fb7194086f6fd9b734a27850e71b/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:13:22-73
+uses-feature#android.hardware.camera
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:15:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:16:19-67
+uses-feature#0x00020000
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:18:5-20:35
+	android:glEsVersion
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:20:9-32
+application
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:22:5-93:19
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/fd8a46c5fda54f34b5655b9479767632/AndroidManifest.xml:8:5-20
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/fd8a46c5fda54f34b5655b9479767632/AndroidManifest.xml:8:5-20
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:10:5-24:19
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c463ba45b191a2e5789f4fed9242130d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c463ba45b191a2e5789f4fed9242130d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e6e08231c90b3d3610e0b70a2e5b2db2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e6e08231c90b3d3610e0b70a2e5b2db2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/859e150937c804d5d86158406877a245/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/859e150937c804d5d86158406877a245/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c97caf820e7394da2915605b984d6cc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c97caf820e7394da2915605b984d6cc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/71a715d92439a2e8ff09045dd3c8f588/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/71a715d92439a2e8ff09045dd3c8f588/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3849b7db849de4e8a40f2bcfd7c3f9da/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3849b7db849de4e8a40f2bcfd7c3f9da/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b4590d34c6cebbb9949bc98fb81c52b4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b4590d34c6cebbb9949bc98fb81c52b4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3545270fb82bdf89abaa22e786da494d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3545270fb82bdf89abaa22e786da494d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a50c868b6df66e0bd462fee8db53c8ac/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a50c868b6df66e0bd462fee8db53c8ac/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ef812be26228e1cf262dda50bc0766a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ef812be26228e1cf262dda50bc0766a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/459513ac17f52162f0c7c0820f391704/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/459513ac17f52162f0c7c0820f391704/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/547c74ce8d2cdd1dba786e16da6ff3ed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/547c74ce8d2cdd1dba786e16da6ff3ed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bed4a5b77f7e57f993e3167857967863/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bed4a5b77f7e57f993e3167857967863/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b31a331ca334a29c74b48ca40e80159e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b31a331ca334a29c74b48ca40e80159e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /home/anze/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/36e0f41e90c3e666c60aa97b1fa32cf9/AndroidManifest.xml:9:5-20
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /home/anze/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/36e0f41e90c3e666c60aa97b1fa32cf9/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/0c7b8757058f91aea754f6958e608dcc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/0c7b8757058f91aea754f6958e608dcc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/4aa3f242e2857e6ca26754b132673bb0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/4aa3f242e2857e6ca26754b132673bb0/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53fc3c080fc9c6345267e7dfc30856ec/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53fc3c080fc9c6345267e7dfc30856ec/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/45a248b305d7aac25598e457a0022092/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/45a248b305d7aac25598e457a0022092/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/fb7472f548cb3b8efa696a49dc3d2915/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/fb7472f548cb3b8efa696a49dc3d2915/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/97c2906a21a168796697515c0ba9bd08/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/97c2906a21a168796697515c0ba9bd08/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/e0e80998dc77b819573546c66bce532a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/e0e80998dc77b819573546c66bce532a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/435e6f72b86658280094fa4b42aa437a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/435e6f72b86658280094fa4b42aa437a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/70372c1acd9bddc9e747fc507b8f8aa2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/70372c1acd9bddc9e747fc507b8f8aa2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a01dca6941cdf9d67f8585267ba4d8b3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a01dca6941cdf9d67f8585267ba4d8b3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e5def96a090bf6f1d850303a90f39ab5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e5def96a090bf6f1d850303a90f39ab5/AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:26:9-41
+	tools:ignore
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:28:9-48
+	android:icon
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:24:9-36
+	android:theme
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:23:9-28
+meta-data#android.support.VERSION
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:31:9-34:38
+MERGED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c463ba45b191a2e5789f4fed9242130d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c463ba45b191a2e5789f4fed9242130d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e6e08231c90b3d3610e0b70a2e5b2db2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e6e08231c90b3d3610e0b70a2e5b2db2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/859e150937c804d5d86158406877a245/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/859e150937c804d5d86158406877a245/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c97caf820e7394da2915605b984d6cc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c97caf820e7394da2915605b984d6cc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3545270fb82bdf89abaa22e786da494d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3545270fb82bdf89abaa22e786da494d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a50c868b6df66e0bd462fee8db53c8ac/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a50c868b6df66e0bd462fee8db53c8ac/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ef812be26228e1cf262dda50bc0766a3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ef812be26228e1cf262dda50bc0766a3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/459513ac17f52162f0c7c0820f391704/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/459513ac17f52162f0c7c0820f391704/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/547c74ce8d2cdd1dba786e16da6ff3ed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/547c74ce8d2cdd1dba786e16da6ff3ed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bed4a5b77f7e57f993e3167857967863/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bed4a5b77f7e57f993e3167857967863/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b31a331ca334a29c74b48ca40e80159e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b31a331ca334a29c74b48ca40e80159e/AndroidManifest.xml:26:9-28:38
+	tools:replace
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:32:13-42
+	android:value
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:34:13-35
+		REJECTED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:recyclerview-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c463ba45b191a2e5789f4fed9242130d/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:transition:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e6e08231c90b3d3610e0b70a2e5b2db2/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:appcompat-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/859e150937c804d5d86158406877a245/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:animated-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c97caf820e7394da2915605b984d6cc/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-v4:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3545270fb82bdf89abaa22e786da494d/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-fragment:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a50c868b6df66e0bd462fee8db53c8ac/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-core-ui:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ef812be26228e1cf262dda50bc0766a3/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/459513ac17f52162f0c7c0820f391704/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-media-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/547c74ce8d2cdd1dba786e16da6ff3ed/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-core-utils:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bed4a5b77f7e57f993e3167857967863/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b31a331ca334a29c74b48ca40e80159e/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:33:13-51
+activity#com.quickblox.sample.groupchatwebrtc.activities.SplashActivity
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:35:9-42:20
+	android:screenOrientation
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:36:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:40:27-74
+activity#com.quickblox.sample.groupchatwebrtc.activities.LoginActivity
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:44:13-53
+activity#com.quickblox.sample.groupchatwebrtc.activities.OpponentsActivity
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:47:9-51:52
+	android:screenOrientation
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:51:13-49
+	android:launchMode
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:50:13-44
+	android:configChanges
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:48:13-57
+activity#com.quickblox.sample.groupchatwebrtc.activities.PermissionsActivity
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:52:9-68
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:52:19-65
+activity#com.quickblox.sample.groupchatwebrtc.activities.CallActivity
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:53:9-57:47
+	android:screenOrientation
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:56:13-49
+	android:configChanges
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:55:13-74
+	android:theme
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:57:13-44
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:54:13-52
+activity#com.quickblox.sample.groupchatwebrtc.activities.SettingsActivity
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:59:13-56
+service#com.quickblox.sample.groupchatwebrtc.services.CallService
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:63:9-57
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:63:18-54
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:65:9-75:20
+	android:exported
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:67:13-36
+	android:permission
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:68:13-73
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:66:13-66
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.quickblox.sample.groupchatwebrtc
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:69:13-74:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:70:17-81
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:70:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:71:17-86
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:71:25-83
+category#com.quickblox.sample.groupchatwebrtc
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:73:17-81
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:73:27-78
+service#com.quickblox.sample.groupchatwebrtc.services.gcm.GcmPushListenerService
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:77:9-83:19
+	android:exported
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:78:13-64
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:80:13-82:29
+meta-data#com.quickblox.messages.TYPE
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:85:9-85
+	android:value
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:85:63-82
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:85:20-62
+meta-data#com.quickblox.messages.SENDER_ID
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:86:9-104
+	android:value
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:86:68-101
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:86:20-67
+meta-data#com.quickblox.messages.QB_ENVIRONMENT
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:87:9-103
+	android:value
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:87:73-100
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:87:20-72
+meta-data#com.google.android.gms.version
+ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:89:9-91:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b4590d34c6cebbb9949bc98fb81c52b4/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b4590d34c6cebbb9949bc98fb81c52b4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml:90:13-58
+uses-sdk
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/fd8a46c5fda54f34b5655b9479767632/AndroidManifest.xml:6:5-44
+MERGED from [com.github.johnkil.android-robototextview:robototextview:4.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/robototextview-4.0.0.aar/fd8a46c5fda54f34b5655b9479767632/AndroidManifest.xml:6:5-44
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-videochat-webrtc-3.7.0.aar/b4ced9c3d2cbf304515016f5d66c3d30/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-videochat-webrtc:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-videochat-webrtc-3.7.0.aar/b4ced9c3d2cbf304515016f5d66c3d30/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c463ba45b191a2e5789f4fed9242130d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c463ba45b191a2e5789f4fed9242130d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e6e08231c90b3d3610e0b70a2e5b2db2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/e6e08231c90b3d3610e0b70a2e5b2db2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/859e150937c804d5d86158406877a245/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/859e150937c804d5d86158406877a245/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c97caf820e7394da2915605b984d6cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c97caf820e7394da2915605b984d6cc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/71a715d92439a2e8ff09045dd3c8f588/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/71a715d92439a2e8ff09045dd3c8f588/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3849b7db849de4e8a40f2bcfd7c3f9da/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/3849b7db849de4e8a40f2bcfd7c3f9da/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b4590d34c6cebbb9949bc98fb81c52b4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/b4590d34c6cebbb9949bc98fb81c52b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3545270fb82bdf89abaa22e786da494d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3545270fb82bdf89abaa22e786da494d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a50c868b6df66e0bd462fee8db53c8ac/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a50c868b6df66e0bd462fee8db53c8ac/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ef812be26228e1cf262dda50bc0766a3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ef812be26228e1cf262dda50bc0766a3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/459513ac17f52162f0c7c0820f391704/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/459513ac17f52162f0c7c0820f391704/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/547c74ce8d2cdd1dba786e16da6ff3ed/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/547c74ce8d2cdd1dba786e16da6ff3ed/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bed4a5b77f7e57f993e3167857967863/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bed4a5b77f7e57f993e3167857967863/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b31a331ca334a29c74b48ca40e80159e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b31a331ca334a29c74b48ca40e80159e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /home/anze/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/36e0f41e90c3e666c60aa97b1fa32cf9/AndroidManifest.xml:7:5-43
+MERGED from [com.navercorp.pulltorefresh:library:3.2.3] /home/anze/.gradle/caches/transforms-1/files-1.1/library-3.2.3.aar/36e0f41e90c3e666c60aa97b1fa32cf9/AndroidManifest.xml:7:5-43
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/a3c7fb7194086f6fd9b734a27850e71b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/a3c7fb7194086f6fd9b734a27850e71b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-core-3.7.0.aar/24e1cc6dbf31ef7b99dfacfe5039698b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.quickblox:quickblox-android-sdk-core:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-core-3.7.0.aar/24e1cc6dbf31ef7b99dfacfe5039698b/AndroidManifest.xml:6:5-8:41
+MERGED from [org.webrtc:google-webrtc:1.0.21217] /home/anze/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.21217.aar/4279288edda0479d19151a34122c0538/AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.21217] /home/anze/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.21217.aar/4279288edda0479d19151a34122c0538/AndroidManifest.xml:13:3-72
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/0c7b8757058f91aea754f6958e608dcc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/0c7b8757058f91aea754f6958e608dcc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/4aa3f242e2857e6ca26754b132673bb0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/4aa3f242e2857e6ca26754b132673bb0/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53fc3c080fc9c6345267e7dfc30856ec/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53fc3c080fc9c6345267e7dfc30856ec/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/45a248b305d7aac25598e457a0022092/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/45a248b305d7aac25598e457a0022092/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/fb7472f548cb3b8efa696a49dc3d2915/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/fb7472f548cb3b8efa696a49dc3d2915/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/97c2906a21a168796697515c0ba9bd08/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/97c2906a21a168796697515c0ba9bd08/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/e0e80998dc77b819573546c66bce532a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/e0e80998dc77b819573546c66bce532a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/435e6f72b86658280094fa4b42aa437a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/435e6f72b86658280094fa4b42aa437a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/70372c1acd9bddc9e747fc507b8f8aa2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/70372c1acd9bddc9e747fc507b8f8aa2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a01dca6941cdf9d67f8585267ba4d8b3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a01dca6941cdf9d67f8585267ba4d8b3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e5def96a090bf6f1d850303a90f39ab5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e5def96a090bf6f1d850303a90f39ab5/AndroidManifest.xml:4:5-43
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/anze/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fc2d0ddea00b9e897ffea6f1cedb8cb8/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+		ADDED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anze/Documents/AndroidProjects/quickblox-android-videocall-example1/app/src/main/AndroidManifest.xml
+service#com.quickblox.messages.services.SubscribeTaskManager
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:11:9-18:19
+	android:exported
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:13:13-36
+	android:permission
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:14:13-93
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:12:13-80
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:15:13-17:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:16:17-87
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:16:25-84
+service#com.quickblox.messages.services.SubscribeService
+ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:19:9-23:19
+	android:exported
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:21:13-37
+	android:permission
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from [com.quickblox:quickblox-android-sdk-messages:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-messages-3.7.0.aar/65e8a6ed90c7c1fe7cf6bf7964d80812/AndroidManifest.xml:20:13-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/52904f356d3139adbdac2a67daeca58e/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/db324fa84e47a4fdf730e757542a4377/AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/294234660c995b9893313777cc5d3efb/AndroidManifest.xml:32:25-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fea4c48bc42dfb6176cbdc15eae6c9c4/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:22:5-79
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/a3c7fb7194086f6fd9b734a27850e71b/AndroidManifest.xml:12:5-79
+MERGED from [com.quickblox:quickblox-android-sdk-chat:3.7.0] /home/anze/.gradle/caches/transforms-1/files-1.1/quickblox-android-sdk-chat-3.7.0.aar/a3c7fb7194086f6fd9b734a27850e71b/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/29da2d2e2c05839427bbcc4f757abcbf/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa19f8aeb0168da0cab3fc3922c42b0e/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:29:9-63
+permission#com.quickblox.sample.groupchatwebrtc.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:32:22-76
+uses-permission#com.quickblox.sample.groupchatwebrtc.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:39:13-43:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.quickblox.sample.groupchatwebrtc
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:39:13-43:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/6abf3aa22efaefaa6b75a8d0e0401e8b/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/anze/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/94e1342c5f40d725c9844d4dffe2aa7b/AndroidManifest.xml:9:13-77
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53fc3c080fc9c6345267e7dfc30856ec/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53fc3c080fc9c6345267e7dfc30856ec/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/anze/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53fc3c080fc9c6345267e7dfc30856ec/AndroidManifest.xml:26:13-58
